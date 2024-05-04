@@ -1,0 +1,11 @@
+streamlit
+embedchain==0.0.23
+streamlit_chat
+deep_translator
+transformers
+streamlit_custom_notification_box
+openai
+sentencepiece
+tiktoken
+faiss-cpu
+
